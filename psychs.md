@@ -1,8 +1,8 @@
-In het Pakketadvies 2007 ([link](https://www.zorginstituutnederland.nl/binaries/zinl/documenten/adviezen/2007/03/27/pakketadvies-2007/Pakketadvies+2007.pdf)) stelt het CvZ dat ze de WPATH richtlijnen volgen, maar zeggen vervolgens dat psychologische evaluatie vooraf een vereiste is (bij 1.I.4, p.67):
+In het Pakketadvies 2007 ([link](https://www.zorginstituutnederland.nl/binaries/zinl/documenten/adviezen/2007/03/27/pakketadvies-2007/Pakketadvies+2007.pdf)) stelt het Zorginstituut Nederland (ZiNL, voormalig CvZ) dat ze de WPATH richtlijnen volgen, maar zeggen vervolgens dat psychologische evaluatie vooraf een vereiste is (bij 1.I.4, p.67):
 > Een zorgvuldige selectie van patiënten, psychologische evaluatie vooraf, behandeling door een multidisciplinair team, voorafgaande proefbehandeling en geprotocolleerde follow-up blijven een vereiste.
 
 Deze paternalistische opinie volgt uit het idee dat transgenderschap een psychische stoornis is, en als dusdanig behandeld dient te worden.
-Geen enkele transgender organisatie deelt dit standpunt met het CvZ.
+Geen enkele transgender organisatie deelt dit standpunt met het ZiNL.
 Zo schrijft Transgender Netwerk Nederland hierover als volgt ([link](https://www.transgendernetwerk.nl/dossiers/zorg/)):
 
 > Een ander probleem is de indeling van de zorgbehoefte van transgender personen in diagnostische handboeken. Zo wordt in de DSM-V, het handboek voor psychologen en psychiaters, gesproken over genderdysforie. In het handboek van artsen, ICD-11, wordt het transgender zijn gezien als psyschische stoornis. Activisten wereldwijd maken zich op dit moment hard voor verandering van deze indeling, zodat transgender personen niet meer als psychisch gestoord worden gezien.
