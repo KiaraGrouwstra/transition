@@ -18,9 +18,9 @@ brands:
   - [Bayer](https://pharma.bayer.com/contact-us) - contacted
 - Delestrogen, manufacturers:
   - [Sandoz](https://www.sandoz.nl/over-ons/contact-met-ons-opnemen/algemene-vragen-klachten) - contacted
-  - [AM Regent](https://americanregent.com/contact-us/) - discontinued? contacted anyway
-- Neofolin, manufacturers:
-  - ?
+  - [AM Regent](https://americanregent.com/contact-us/) - discontinued? contacted anyway, got directed to their distributor Perrigo
+- Neofollin, manufacturers:
+  - [BB Pharma](http://www.bbpharma.sk/contacts) - contacted
 
 ## estradiol enanthate
 
