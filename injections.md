@@ -14,6 +14,7 @@ WP:
 brands:
 - Progynon Depot, manufacturers:
   - [Cadila](https://www.cadilapharma.com/contact/) - discontinued? contacted anyway
+  - [Bayer](https://pharma.bayer.com/contact-us) - contacted
 - Delestrogen, manufacturers:
   - [Sandoz](https://www.sandoz.nl/over-ons/contact-met-ons-opnemen/algemene-vragen-klachten) - contacted
   - [AM Regent](https://americanregent.com/contact-us/) - discontinued? contacted anyway
