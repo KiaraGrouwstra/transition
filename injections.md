@@ -16,7 +16,11 @@ brands:
   - [Cadila](https://www.cadilapharma.com/contact/) - discontinued? contacted anyway
   - [Bayer](https://pharma.bayer.com/contact-us) - contacted
 - Delestrogen, manufacturers:
-  - [Sandoz](https://www.sandoz.nl/over-ons/contact-met-ons-opnemen/algemene-vragen-klachten) - contacted
+  - [Sandoz](https://www.sandoz.nl/over-ons/contact-met-ons-opnemen/algemene-vragen-klachten) - replied:
+    - > Op dit moment is Estradiol Valerate niet geristreerd in Nederland, het is dan inderdaad ook niet op de markt hier.
+      > Voor nu hebben we gekozen voor estradiol in pleister en pil vorm. Voor zo ver bij mij bekend zijn er geen plannen om de injecties beschikbaar te maken.
+      > We staan echter altijd open voor ideeën en feedback, bedankt hiervoor.
+      > Ik zal het idee delen met onze development afdeling.
   - [AM Regent](https://americanregent.com/contact-us/) - distributor Perrigo replied:
     - > At this time, we do not directly distribute outside of the United States.
 - Neofollin, manufacturers:
