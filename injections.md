@@ -5,7 +5,6 @@ As a result of this, transgenders looking to acquire such injections are current
 Types:
 - estradiol valerate (injections every 5 days)
 - estradiol enanthate (injections every 7 or 10 days, pricier)
-- estradiol hemihydrate
 
 ## estradiol valerate
 
@@ -18,14 +17,11 @@ brands:
   - [Bayer](https://pharma.bayer.com/contact-us) - contacted
 - Delestrogen, manufacturers:
   - [Sandoz](https://www.sandoz.nl/over-ons/contact-met-ons-opnemen/algemene-vragen-klachten) - contacted
-  - [AM Regent](https://americanregent.com/contact-us/) - discontinued? contacted anyway, got directed to their distributor Perrigo
+  - [AM Regent](https://americanregent.com/contact-us/) - distributor Perrigo replied:
+    - > At this time, we do not directly distribute outside of the United States.
 - Neofollin, manufacturers:
   - [BB Pharma](http://www.bbpharma.sk/contacts) - contacted
 
 ## estradiol enanthate
-
-?
-
-## estradiol hemihydrate
 
 ?
