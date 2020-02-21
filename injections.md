@@ -5,6 +5,7 @@ As a result of this, transgenders looking to acquire such injections are current
 Types:
 - estradiol valerate (injections every 5 days)
 - estradiol enanthate (injections every 7 or 10 days, pricier)
+- estradiol hemihydrate
 
 ## estradiol valerate
 
@@ -22,5 +23,9 @@ brands:
   - ?
 
 ## estradiol enanthate
+
+?
+
+## estradiol hemihydrate
 
 ?
