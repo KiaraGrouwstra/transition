@@ -29,3 +29,7 @@ brands:
 ## estradiol enanthate
 
 ?
+
+## conclusion
+
+This is sounding like a chicken-and-egg problem between government and insurance with insufficient incentive to start bureaucratic procedures. Time for us to complain to politicians that we need this registered?
