@@ -10,3 +10,4 @@ stuff related to transgenderism
 
 ### drug availability
 - [estrogen injections](./injections.md)
+- [estrogen implants](./implants.md)
