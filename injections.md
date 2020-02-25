@@ -26,6 +26,8 @@ brands:
     - > At this time, we do not directly distribute outside of the United States.
 - Neofollin, manufacturers:
   - [BB Pharma](http://www.bbpharma.sk/contacts) - contacted
+- ?:
+  - [Nova Pharma](https://www.novapharma.com/contact/) - heard from Nicky these offer EV, haven't been able to verify or find the brand, but contacted anyway
 
 ## estradiol enanthate
 
