@@ -1,7 +1,7 @@
-Estrogen injections seem like a nice alternative to other methods due to easy absorption of high levels of estrogen, but appear not to have been [registered](https://www.igj.nl/zorgsectoren/medische-technologie/markttoelating/klinisch-onderzoek) by the [inspectie volksgezondheid](https://www.igj.nl/), as [farmaceutisch kompas](https://www.farmacotherapeutischkompas.nl/) is missing this while listing the oral variant when querying for 'estradiol'.
+Estrogen injections seem like a nice alternative to other methods due to easy absorption of high levels of estrogen, but appear not to have been [registered](https://www.igj.nl/zorgsectoren/medische-technologie/markttoelating/klinisch-onderzoek) by the [inspectie volksgezondheid](https://www.igj.nl/), as [farmaceutisch kompas](https://www.farmacotherapeutischkompas.nl/) / [MedicijnKosten](https://www.medicijnkosten.nl/) is missing this while listing the oral variant when querying for 'estradiol'.
 
-While these are available in neighbouring countries, the lack of registration here means insurance will not cover this.
-As a result, transgenders looking to acquire such injections are currently pushed toward the [black market](http://lena.kiev.ua/).
+While these are available in neighbouring countries, the lack of GVS registration here [means insurance will not cover this](https://www.rijksoverheid.nl/onderwerpen/geneesmiddelen/vraag-en-antwoord/welke-medicijnen-krijg-ik-vergoed).
+As a result, transgenders looking to acquire such injections are currently pushed toward [importing](https://www.sigmaaldrich.com/) or even the [black market](http://lena.kiev.ua/).
 
 Types:
 - estradiol valerate (injections every 5 days)
