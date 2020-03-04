@@ -33,6 +33,11 @@ brands:
 
 ?
 
-## conclusion
+## action plan
 
 This is sounding like a chicken-and-egg problem between government and insurance with insufficient incentive to start bureaucratic procedures. Time for us to complain to politicians that we need this registered?
+
+### registration
+
+I asked [Inspectie Gezondheidszorg en Jeugd](https://www.igj.nl/) (IGJ) where citizens might indicate demand for getting specific substances registered.
+These redirected me to the [College ter Beoordeling van Geneesmiddelen](https://www.cbg-meb.nl/) (CGB).
