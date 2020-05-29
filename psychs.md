@@ -4,7 +4,7 @@ In het Pakketadvies 2007 ([link](https://www.zorginstituutnederland.nl/binaries/
 Waar dit in eerste instantie klinkt als een mooi rijtje kwaliteitseisen, is dit helaas niet het geval.
 Waar 'kwaliteit' vanuit de vraag van de patient gemeten zou dienen te worden,
 dient de verplicht-stelling van deze punten helaas niet de patient zelf:
-- Een 'zorgvuldige selectie van patiënten' klinkt alsof het ZiNL een significant deel van de aanmeldingen voor transgender zorg als niet _valid_ zou beschouwen. Er lijkt echter geen bewijs te zijn die deze redenering zou onderbouwen.
+<!-- - Een 'zorgvuldige selectie van patiënten' klinkt alsof het ZiNL een significant deel van de aanmeldingen voor transgender zorg als niet _valid_ zou beschouwen. Er lijkt echter geen bewijs te zijn die deze redenering zou onderbouwen. -->
 - De _psychologische evaluatie vooraf_ klinkt als een redelijke check om te bevestigen of iemand inderdaad transgender is. En de [DSM](https://www.psychiatry.org/psychiatrists/practice/dsm) biedt duidelijke criteria om te beoordelen of iemand gender-dysfoor is. Echter, iemand hierop checken is [vrij eenvoudig](https://forms.gle/minK4NJLVEKuhALKA), en er is al gauw per definitie aan deze criteria voldaan tegen de tijd dat iemand bij een gender-kliniek aanklopt. Desalniettemin worden deze evaluaties in de praktijk al gauw tot een half jaar of langer uitgerekt, in plaats van gewoon de daadwerkelijke check te doen om vervolgens simpelweg de gevraagde zorg te leveren.
 - De eis van behandeling _door een multi-disciplinair team_ wordt gebruikt om lossere samenwerkingsverbanden van dekking uit te sluiten en een bottleneck in de zorg te creeren --- zie [`multi-disciplinary.md`](./multi-disciplinary.md).
 <!-- - voorafgaande proefbehandeling -->
