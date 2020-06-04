@@ -1,4 +1,19 @@
-In het Pakketadvies 2007 ([link](https://www.zorginstituutnederland.nl/binaries/zinl/documenten/adviezen/2007/03/27/pakketadvies-2007/Pakketadvies+2007.pdf)) stelt het Zorginstituut Nederland (ZiNL, voormalig CvZ) dat ze de WPATH richtlijnen volgen, maar zeggen vervolgens dat psychologische evaluatie vooraf een vereiste is (bij 1.I.4, p.67):
+Zorginstituut Nederland (ZiNL, voormalig CvZ) deed in 2008 een [uitspraak](https://www.zorginstituutnederland.nl/publicaties/standpunten/2008/03/25/zorg-in-verband-met-transseksualiteit-die-niet-in-een-gespecialiseerd-centrum-wordt-verricht-moet-voldoen-aan-de-internationale-richtlijn-en-onder-regie-staan-van-een-deskundige-psychiater-psycholoog):
+> Zorg in verband met transseksualiteit (die niet in een gespecialiseerd centrum wordt verricht) moet voldoen aan de internationale richtlijn en onder regie staan van een deskundige psychiater/psycholoog
+
+In het Pakketadvies 2007 ([link](https://www.zorginstituutnederland.nl/binaries/zinl/documenten/adviezen/2007/03/27/pakketadvies-2007/Pakketadvies+2007.pdf)) stelt het ZiNL dat ze de WPATH richtlijnen volgen.
+
+WPATH's [Standards of Care](https://wpath.org/media/cms/Documents/SOC%20v7/Standards%20of%20Care_V7%20Full%20Book_English.pdf#page=58) (SoC) schrijft hierover echter:
+
+> Mental health professionals with the competencies described above (hereafter called “a qualified
+> mental health professional”) are best prepared to conduct this assessment of gender dysphoria.
+> *However, this task may instead be conducted by another type of health professional who has
+> appropriate training in behavioral health and is competent in the assessment of gender dysphoria*,
+> particularly when functioning as part of a multidisciplinary specialty team that provides access to
+> feminizing/masculinizing hormone therapy. This professional may be the prescribing hormone
+> therapy provider or a member of that provider’s health care team.
+
+In het Pakketadvies 2007 zegt ZiNL vervolgens dat psychologische evaluatie vooraf een vereiste is (bij 1.I.4, p.67):
 > Een zorgvuldige selectie van patiënten, psychologische evaluatie vooraf, behandeling door een multidisciplinair team, voorafgaande proefbehandeling en geprotocolleerde follow-up blijven een vereiste.
 
 Waar dit in eerste instantie klinkt als een mooi rijtje kwaliteitseisen, is dit helaas niet het geval.
