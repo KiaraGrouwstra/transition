@@ -41,3 +41,5 @@ This is sounding like a chicken-and-egg problem between government and insurance
 
 I asked [Inspectie Gezondheidszorg en Jeugd](https://www.igj.nl/) (IGJ) where citizens might indicate demand for getting specific substances registered.
 These redirected me to the [College ter Beoordeling van Geneesmiddelen](https://www.cbg-meb.nl/) (CGB).
+Those in turn basically told me there is no such route available.
+I re-contacted Sandoz to ask about trial costs, but have not heard back.
