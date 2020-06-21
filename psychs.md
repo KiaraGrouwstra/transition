@@ -1,7 +1,7 @@
 Zorginstituut Nederland (ZiNL, voormalig CvZ) deed in 2008 een [uitspraak](https://www.zorginstituutnederland.nl/publicaties/standpunten/2008/03/25/zorg-in-verband-met-transseksualiteit-die-niet-in-een-gespecialiseerd-centrum-wordt-verricht-moet-voldoen-aan-de-internationale-richtlijn-en-onder-regie-staan-van-een-deskundige-psychiater-psycholoog):
 > Zorg in verband met transseksualiteit (die niet in een gespecialiseerd centrum wordt verricht) moet voldoen aan de internationale richtlijn en onder regie staan van een deskundige psychiater/psycholoog
 
-> Naar het oordeel van de medisch adv iseur is het essentieel dat er een duidelijke regie is gedurende het gehele behandeltraject. Conform de richtlijnen kan de regie het beste bij een deskundige psychiater/psycholoog liggen.
+> Naar het oordeel van de medisch adviseur is het essentieel dat er een duidelijke regie is gedurende het gehele behandeltraject. Conform de richtlijnen kan de regie het beste bij een deskundige psychiater/psycholoog liggen.
 
 In het Pakketadvies 2007 ([link](https://www.zorginstituutnederland.nl/binaries/zinl/documenten/adviezen/2007/03/27/pakketadvies-2007/Pakketadvies+2007.pdf)) stelt het ZiNL dat ze de WPATH richtlijnen volgen.
 
