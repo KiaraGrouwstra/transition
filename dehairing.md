@@ -1,5 +1,8 @@
 Stelling: laser ontharing van regio's buiten het gelaat en de schaamregio voor transgender vrouwen dienen met goedkeuring van een medisch specialist door de verzekering uit het basis-pakket vergoed te worden.
 
+|Warning: delen van deze text kunnen obsoleet zijn, gezien de richtlijnen van het Zorginstituut Nederland niet bindend zijn, zolang je aan een rechter aannemelijk kunt maken dat er legitieme reden is om hier van af te wijken.|
+|-|
+
 Redenering:
 1. Verzekeringen vergoeden voor laser ontharing nu alleen gelaat/schaamregio ([link](https://www.zorginstituutnederland.nl/publicaties/standpunten/2008/09/22/epilatie-bij-transseksuelen-van-perineo-scrotaal-vaginaal-gebied-en-gezicht-en-hals-is-een-te-verzekeren-prestatie-romp-en-ledematen-in-de-regel-niet)). Dit bepalen ze o.b.v. Besluit zorgverzekering ([Bzv 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2020-01-01&g=2020-01-01) -> lid 1b) aan de hand van welke laser regio's ze als 'verminking' tellen. Voor lichaamsbeharing wil ZiNL hier niet van spreken daar (p.3):
 - > Door de hormoonbehandeling, waarmee een start wordt gemaakt bij aanvang van de real-life-experience, treedt na 6 tot 12 maanden een vermindering van de haargroei op. Dat geldt vooral voor de beharing van romp en ledematen.
